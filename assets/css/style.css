@@ -1,7 +1,8 @@
-@import "{{ site.theme }}";---
+
+
+@import "{{ site.theme }}";
 layout: default
 title: LeVonta | Cybersecurity Portfolio
----
 
 <link rel="stylesheet" href="/assets/css/style.css">
 
