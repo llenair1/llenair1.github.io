@@ -19,18 +19,18 @@ title: LeVonta | Cybersecurity Portfolio
 </div>
 
 <section class="color-block periwinkle-block">
-  <p class="section-kicker">CURRENT DIRECTION</p>
+  <p class="section-kicker">PROFESSIONAL SUMMARY</p>
   <h2>Security at the convergence of governance, AI, and quantum-safe systems.</h2>
-
   <p>
-    I’m focused on how organizations identify, govern, and reduce emerging technology risk as AI systems mature and cryptographic infrastructure moves toward post-quantum security.
+    I approach cybersecurity as both a technical and business problem: understand the risk, assess the evidence, communicate the impact, and help determine what should happen next. My work is increasingly focused on the intersection of security governance, AI risk, and post-quantum cryptographic transition.
   </p>
 </section>
 
 <section id="projects" class="section">
   <div class="section-heading">
-    <p class="section-kicker">FEATURED WORK</p>
-    <h2>Projects that show how I think.</h2>
+    <p class="section-kicker">FEATURED PROJECTS</p>
+    <h2>Case studies that show how I think.</h2>
+    <p>Selected work spanning governance, emerging technology risk, security assessment, and hands-on technical security.</p>
   </div>
 
   <div class="project-grid">
@@ -41,7 +41,7 @@ title: LeVonta | Cybersecurity Portfolio
         <p class="project-type">GRC / AI GOVERNANCE</p>
         <h3>AI Compliance Readiness Copilot</h3>
         <p>
-          Built an AI-assisted compliance workflow to help evaluate cybersecurity readiness, organize control evidence, and translate framework requirements into practical risk and remediation actions.
+          Built an AI-assisted compliance workflow to evaluate cybersecurity readiness, organize control evidence, and translate framework requirements into practical risk and remediation actions.
         </p>
         <div class="tags">
           <span>GRC</span>
@@ -49,17 +49,17 @@ title: LeVonta | Cybersecurity Portfolio
           <span>AI Governance</span>
           <span>Control Mapping</span>
         </div>
-        <a class="project-link" href="https://github.com/llenair1/Compliance-Copilot">View Project →</a>
+        <a class="project-link" href="https://github.com/llenair1/Compliance-Copilot">View Case Study →</a>
       </div>
     </article>
 
     <article class="project-card featured">
       <div class="project-number">02</div>
       <div class="project-content">
-        <p class="project-type">RMF / POST-QUANTUM CRYPTOGRAPHY • IN PROGRESS</p>
+        <p class="project-type">RMF / POST-QUANTUM CRYPTOGRAPHY</p>
         <h3>Federal RMF + PQC Migration Assessment</h3>
         <p>
-          Developing a risk-management case study that applies the NIST Risk Management Framework to post-quantum cryptography migration, with emphasis on cryptographic inventory, transition risk, control implications, and migration planning.
+          Developing a risk-management case study applying the NIST Risk Management Framework to post-quantum cryptography migration, with emphasis on cryptographic inventory, transition risk, control implications, and migration planning.
         </p>
         <div class="tags">
           <span>NIST RMF</span>
@@ -67,6 +67,7 @@ title: LeVonta | Cybersecurity Portfolio
           <span>Cryptographic Risk</span>
           <span>Governance</span>
         </div>
+        <span class="project-link">Case Study in Progress</span>
       </div>
     </article>
 
@@ -76,7 +77,7 @@ title: LeVonta | Cybersecurity Portfolio
         <p class="project-type">AI SECURITY / RED TEAMING</p>
         <h3>LLM Prompt-Injection Red-Team Assessment</h3>
         <p>
-          Conducting hands-on adversarial testing of a locally hosted large language model using NVIDIA Garak to evaluate prompt-injection behavior and document security findings.
+          Conducted adversarial testing of a locally hosted large language model using NVIDIA Garak to evaluate prompt-injection behavior and document security findings.
         </p>
         <div class="tags">
           <span>LLM Security</span>
@@ -84,7 +85,7 @@ title: LeVonta | Cybersecurity Portfolio
           <span>NVIDIA Garak</span>
           <span>OWASP LLM</span>
         </div>
-        <a class="project-link" href="https://github.com/llenair1/LLM-PROMPT-INJECTION-RED-TEAM">View Project →</a>
+        <a class="project-link" href="https://github.com/llenair1/LLM-PROMPT-INJECTION-RED-TEAM">View Case Study →</a>
       </div>
     </article>
 
@@ -103,7 +104,7 @@ title: LeVonta | Cybersecurity Portfolio
           <span>Web Security</span>
           <span>Remediation</span>
         </div>
-        <a class="project-link" href="https://github.com/llenair1/rekall-penetration-test">View Project →</a>
+        <a class="project-link" href="https://github.com/llenair1/rekall-penetration-test">View Case Study →</a>
       </div>
     </article>
 
@@ -122,10 +123,12 @@ title: LeVonta | Cybersecurity Portfolio
           <span>TLS</span>
           <span>Cloud Security</span>
         </div>
-        <a class="project-link" href="https://github.com/llenair1/Web-Application-Security-Implementation-with-Azure">View Project →</a>
+        <a class="project-link" href="https://github.com/llenair1/Web-Application-Security-Implementation-with-Azure">View Case Study →</a>
       </div>
     </article>
+  </div>
 
+  <div class="project-grid">
     <article class="project-card">
       <div class="project-number">06</div>
       <div class="project-content">
@@ -141,26 +144,9 @@ title: LeVonta | Cybersecurity Portfolio
           <span>Log Analysis</span>
           <span>SOC</span>
         </div>
-        <a class="project-link" href="https://github.com/llenair1/security-monitoring-environment-with-splunk">View Project →</a>
+        <a class="project-link" href="https://github.com/llenair1/security-monitoring-environment-with-splunk">View Case Study →</a>
       </div>
     </article>
-
-  </div>
-</section>
-
-<section class="color-block pink-block">
-  <p class="section-kicker">CONVERGENCE</p>
-  <h2>Where my interests meet.</h2>
-  <p>
-    My portfolio is intentionally centered on the intersection of security governance, AI risk, cryptographic transition, and technical security assessment.
-  </p>
-  <div class="focus-grid">
-    <span>Governance, Risk & Compliance</span>
-    <span>AI Security</span>
-    <span>Post-Quantum Cryptography</span>
-    <span>Risk Management Framework</span>
-    <span>Security Assessment</span>
-    <span>Emerging Technology Risk</span>
   </div>
 </section>
 
@@ -185,7 +171,7 @@ title: LeVonta | Cybersecurity Portfolio
       <div class="project-content">
         <p class="project-type">CYBERSECURITY TRAINING</p>
         <h3>UC Berkeley Cybersecurity Boot Camp</h3>
-        <p>Hands-on work spanning security operations, penetration testing, cloud security, Windows and Linux security, Splunk, networking, and cryptography.</p>
+        <p>Hands-on training spanning security operations, penetration testing, cloud security, Windows and Linux security, Splunk, networking, and cryptography.</p>
       </div>
     </article>
 
@@ -200,19 +186,44 @@ title: LeVonta | Cybersecurity Portfolio
   </div>
 </section>
 
-<section class="section about-section">
+<section class="section">
   <div class="section-heading">
-    <p class="section-kicker">BACKGROUND</p>
-    <h2>Technical security with business context.</h2>
+    <p class="section-kicker">TECHNICAL WRITING / RESEARCH</p>
+    <h2>Turning emerging security questions into practical analysis.</h2>
+    <p>
+      Research and technical writing will document how I think about emerging technology risk, including post-quantum cryptography, AI security, governance, and security frameworks.
+    </p>
   </div>
 
-  <p class="about-copy">
-    Before transitioning into cybersecurity, I built experience in business operations, client-facing work, documentation, and risk-based decision-making. That background shapes how I approach security: not only as a technical problem, but as a business and governance problem that has to be communicated clearly and managed deliberately.
-  </p>
+  <div class="project-grid">
+    <article class="project-card">
+      <div class="project-number">01</div>
+      <div class="project-content">
+        <p class="project-type">POST-QUANTUM CRYPTOGRAPHY</p>
+        <h3>PQC Migration & Cryptographic Risk</h3>
+        <p>Research and practical analysis focused on cryptographic inventory, migration planning, algorithm transition risk, and organizational readiness for post-quantum security.</p>
+        <span class="project-link">Research in Progress</span>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-number">02</div>
+      <div class="project-content">
+        <p class="project-type">AI SECURITY / GOVERNANCE</p>
+        <h3>AI Risk, Security & Governance</h3>
+        <p>Writing and analysis exploring how organizations can govern AI systems, assess emerging security risks, and translate technical findings into actionable controls.</p>
+        <span class="project-link">Research in Progress</span>
+      </div>
+    </article>
+  </div>
 </section>
 
 <section class="contact-block">
-  <p class="section-kicker">CONNECT</p>
+  <p class="section-kicker">CONTACT / RESUME / GITHUB</p>
   <h2>Explore my work.</h2>
-  <a href="https://github.com/llenair1">GitHub</a>
+  <p>If you are hiring for cybersecurity roles spanning GRC, AI security, post-quantum cryptography, or their convergence, I’d be glad to connect.</p>
+  <div class="hero-actions">
+    <a class="button primary" href="/resume/">Resume</a>
+    <a class="button secondary" href="https://github.com/llenair1">GitHub</a>
+  </div>
 </section>
