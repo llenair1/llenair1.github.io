@@ -9,7 +9,7 @@ title: LeVonta | Cybersecurity Portfolio
   <h1>LeVonta</h1>
 
   <p class="hero-copy">
-    I’m a career changer into cybersecurity with a focus on GRC, AI security, and post-quantum cryptography. I hold CompTIA Security+ and have built hands-on projects in security assessment, RMF, cloud security, LLM red teaming, and cryptographic risk. My background in business operations and risk-based decision-making shapes how I approach security at the convergence of governance, AI, and quantum-safe systems.
+    Cybersecurity professional focused on GRC, AI security, and post-quantum cryptography.
   </p>
 
   <div class="hero-actions">
@@ -18,11 +18,14 @@ title: LeVonta | Cybersecurity Portfolio
   </div>
 </div>
 
-<section class="color-block periwinkle-block">
-  <p class="section-kicker">PROFESSIONAL SUMMARY</p>
-  <h2>Security at the convergence of governance, AI, and quantum-safe systems.</h2>
-  <p>
-    I approach cybersecurity as both a technical and business problem: understand the risk, assess the evidence, communicate the impact, and help determine what should happen next. My work is increasingly focused on the intersection of security governance, AI risk, and post-quantum cryptographic transition.
+<section class="section summary-section">
+  <div class="section-heading">
+    <p class="section-kicker">PROFESSIONAL SUMMARY</p>
+    <h2>Security at the convergence of governance, AI, and quantum-safe systems.</h2>
+  </div>
+
+  <p class="about-copy">
+    I’m a career changer into cybersecurity with a focus on GRC, AI security, and post-quantum cryptography. I hold CompTIA Security+ and have built hands-on projects in security assessment, RMF, cloud security, LLM red teaming, and cryptographic risk. My background in business operations and risk-based decision-making shapes how I approach security at the convergence of governance, AI, and quantum-safe systems.
   </p>
 </section>
 
@@ -30,11 +33,10 @@ title: LeVonta | Cybersecurity Portfolio
   <div class="section-heading">
     <p class="section-kicker">FEATURED PROJECTS</p>
     <h2>Case studies that show how I think.</h2>
-    <p>Selected work spanning governance, emerging technology risk, security assessment, and hands-on technical security.</p>
+    <p>Selected work demonstrating governance, emerging technology risk, security assessment, and hands-on technical security.</p>
   </div>
 
   <div class="project-grid">
-
     <article class="project-card featured">
       <div class="project-number">01</div>
       <div class="project-content">
@@ -127,27 +129,6 @@ title: LeVonta | Cybersecurity Portfolio
       </div>
     </article>
   </div>
-
-  <div class="project-grid">
-    <article class="project-card">
-      <div class="project-number">06</div>
-      <div class="project-content">
-        <p class="project-type">SECURITY OPERATIONS / DETECTION</p>
-        <h3>Splunk Security Monitoring & SOC Investigation</h3>
-        <p>
-          Analyzed Windows and Apache activity in Splunk, developed alerts and reports, investigated suspicious behavior, and built monitoring dashboards for a simulated SOC environment.
-        </p>
-        <div class="tags">
-          <span>Splunk</span>
-          <span>SIEM</span>
-          <span>Detection</span>
-          <span>Log Analysis</span>
-          <span>SOC</span>
-        </div>
-        <a class="project-link" href="https://github.com/llenair1/security-monitoring-environment-with-splunk">View Case Study →</a>
-      </div>
-    </article>
-  </div>
 </section>
 
 <section class="section">
@@ -179,7 +160,7 @@ title: LeVonta | Cybersecurity Portfolio
       <div class="project-number">03</div>
       <div class="project-content">
         <p class="project-type">CURRENT DEVELOPMENT</p>
-        <h3>RMF, PQC Migration & AI Security</h3>
+        <h3>RMF, PQC Migration &amp; AI Security</h3>
         <p>Current project work focuses on federal risk management, post-quantum migration, LLM security testing, and AI governance.</p>
       </div>
     </article>
@@ -191,7 +172,7 @@ title: LeVonta | Cybersecurity Portfolio
     <p class="section-kicker">TECHNICAL WRITING / RESEARCH</p>
     <h2>Turning emerging security questions into practical analysis.</h2>
     <p>
-      Research and technical writing will document how I think about emerging technology risk, including post-quantum cryptography, AI security, governance, and security frameworks.
+      Research and technical writing documenting how I analyze emerging technology risk, including post-quantum cryptography, AI security, governance, and security frameworks.
     </p>
   </div>
 
@@ -200,7 +181,7 @@ title: LeVonta | Cybersecurity Portfolio
       <div class="project-number">01</div>
       <div class="project-content">
         <p class="project-type">POST-QUANTUM CRYPTOGRAPHY</p>
-        <h3>PQC Migration & Cryptographic Risk</h3>
+        <h3>PQC Migration &amp; Cryptographic Risk</h3>
         <p>Research and practical analysis focused on cryptographic inventory, migration planning, algorithm transition risk, and organizational readiness for post-quantum security.</p>
         <span class="project-link">Research in Progress</span>
       </div>
@@ -210,7 +191,7 @@ title: LeVonta | Cybersecurity Portfolio
       <div class="project-number">02</div>
       <div class="project-content">
         <p class="project-type">AI SECURITY / GOVERNANCE</p>
-        <h3>AI Risk, Security & Governance</h3>
+        <h3>AI Risk, Security &amp; Governance</h3>
         <p>Writing and analysis exploring how organizations can govern AI systems, assess emerging security risks, and translate technical findings into actionable controls.</p>
         <span class="project-link">Research in Progress</span>
       </div>
